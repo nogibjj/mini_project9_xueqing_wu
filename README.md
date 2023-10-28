@@ -1,8 +1,10 @@
-# Fall-2023-706
-This is the git template.
+# Mini Project Link
 
 ## Purpose
 The goal of this project is to apply Pandas in Python
+
+## Google Colab Link
+https://colab.research.google.com/drive/14GeiK2YsIkPdGk94ldr4QP3yc_HvfoTv?usp=sharing 
 
 ## Steps
 1. Download data from Kaggle, then upload to Github
